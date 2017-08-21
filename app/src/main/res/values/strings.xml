@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kocation</string>
+    <string name="confirm">同意</string>
+    <string name="cancel">不同意</string>
+    <string name="warrning">本APP仅允许在中国大陆地区使用，仅作为测试用途，禁止用作危害国家安全的行为，禁止一切非法使用，禁止传播。如有违法行为，本人将追究到底！！！</string>
+    <string name="quit.warning">获取完一个地点的信息后请按返回键或下面的安全退出键，到达新地点后再重新打开应用。</string>
+</resources>
